@@ -13,3 +13,4 @@
 
 vagrant destroy -f
 vagrant up
+vagrant ssh k8s-master
